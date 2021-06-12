@@ -1,5 +1,5 @@
 # [Asif Estiak](https://www.linkedin.com/in/asif-estiak/) | Jr. MERN Stack Web Developer
-
+#### I'm passionate and progress focused Jr. MERN Stack Web Developer.
 ## Technology Summary
 ✓ __Proficient:__ React.JS, JavaScript, ES6, Material-UI, SPA, Bootstrap, React Bootstrap, HTML5, CSS3, SASS.
 
