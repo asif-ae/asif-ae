@@ -9,7 +9,7 @@
 #### What I'm doing?
 - 🏢 Working at **[Sayburgh Solutions](https://sayburgh.com/)** as a **Senior Backend Developer**.
 - 👨‍💻 Writing `JavaScript` `SQL` `No-SQL` `React Native` `HTML` `CSS`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/asif-estiak"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asif-estiak)--> and the **.NET community**.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/asif-estiak"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asif-estiak)--> and the **JavaScript community**.
 - 📚 Currently learning about **DSA**, **Python**, and **large scale system design**.
 - 🥰 Building **[EvienSoft](https://www.eviensoft.com/)** as pet projects.
 
