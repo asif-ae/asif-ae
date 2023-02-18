@@ -39,7 +39,9 @@
 <!--   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) -->
 <!--   - **🕹 Frameworks:** • [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) • [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) • [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-1-0) • [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) • [Entity Framework](https://docs.microsoft.com/en-us/ef/) -->
 
+- **🏗️ Code editors:**
 
+    &nbsp;&nbsp;<a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a> &nbsp; <a href="https://developer.android.com/studio"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" height=25></a> &nbsp; <a href="https://developer.apple.com/xcode/"><img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" height=25></a>
 
 
 
