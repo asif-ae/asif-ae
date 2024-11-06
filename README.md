@@ -2,7 +2,7 @@
 
 #### Who I am?
 - A full stack developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 3 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
+- Have 4 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
 - Developed products for **real estate, financial service, retail,** and **SaaS** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
