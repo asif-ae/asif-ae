@@ -2,7 +2,20 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asif-ae&color=blue)
 
-I'm a **Full-Stack Developer** from Dhaka, Bangladesh, with over 4 years of experience in building scalable and high-performance web and mobile applications. I specialize in **Next.js**, **Nest.js**, **React Native**, **GraphQL**, and a suite of other modern tools to create powerful, responsive, and user-friendly interfaces and backends.
+I'm a **Full-Stack Developer** from Dhaka, Bangladesh, with over 4 years of experience in building scalable and high-performance web and mobile applications. I specialize in **Next.js**, **Nest.js**, **React Native**, **GraphQL**, and a suite of other modern tools to create powerful, responsive, and user-friendly interfaces and backend.
+
+---
+
+## 🏆 Experiences
+
+- **[Unplex.me](https://unplex.me)**  
+  Architected and developed the Unplex.me website using **Next.js** and **React-Flow**. Integrated payment processes with **Stripe** and utilized **Azure** and **Redis** for efficient data management and robust backend support.
+
+- **[Sayburgh Solutions](https://sayburgh.com/)**  
+  Developed a high-performance API for a ticketing platform using **Nest.js** and **GraphQL**, reducing response times by 25%. Worked closely with a team to create a video-enabled mobile app and led a team of nine junior developers.
+
+- **[Flokq Spaces Indonesia](https://www.flokq.com/)**  
+  Enhanced and maintained the official website, created APIs, and built a hybrid mobile app with **React Native**, **Java**, and **Swift**. Ensured efficient data handling and implemented responsive designs.
 
 ---
 
@@ -13,19 +26,6 @@ I'm a **Full-Stack Developer** from Dhaka, Bangladesh, with over 4 years of expe
 - **Cloud & DevOps**: Azure, Google Cloud Platform, Vercel, Heroku, CI/CD, Azure Functions
 - **Tools & Utilities**: VS Code, Git, GitHub, Postman, Figma, JIRA, Trello, YARN, Insomnia, Chrome DevTools
 - **Architectures**: Microservices, Monolithic, MVC, Serverless, Component-Based
-
----
-
-## 🏆 Key Projects
-
-- **[Unplex.me](https://unplex.me)**  
-  Architected and developed the Unplex.me website using **Next.js** and **React-Flow**. Integrated payment processes with **Stripe** and utilized **Azure** and **Redis** for efficient data management and robust backend support.
-
-- **Sayburgh Solutions Ticketing App**  
-  Developed a high-performance API for a ticketing platform using **Nest.js** and **GraphQL**, reducing response times by 25%. Worked closely with a team to create a video-enabled mobile app and led a team of nine junior developers.
-
-- **Flokq Spaces Indonesia**  
-  Enhanced and maintained the official website, created APIs, and built a hybrid mobile app with **React Native**, **Java**, and **Swift**. Ensured efficient data handling and implemented responsive designs.
 
 ---
 
@@ -51,7 +51,7 @@ I'm continuously expanding my skills to stay at the forefront of technology:
 
 ## 📫 Let's Connect!
 
-- **Email**: dev.asif.ae@gmail.com
+- **Email**: [dev.asif.ae@gmail.com](mailto:dev.asif.ae@gmail.com)
 - **LinkedIn**: [linkedin.com/in/asif-estiak](https://www.linkedin.com/in/asif-estiak/)
 - **Portfolio**: [asife.dev](https://www.asife.dev/)
 - **GitHub**: [github.com/asif-ae](https://github.com/asif-ae)
