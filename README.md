@@ -6,7 +6,7 @@ I'm a **Full-Stack Developer** from Dhaka, Bangladesh, with over 4 years of expe
 
 ---
 
-## 🏆 Experiences
+## 🏆 Key Projects
 
 - **[Unplex.me](https://unplex.me)**  
   Architected and developed the Unplex.me website using **Next.js** and **React-Flow**. Integrated payment processes with **Stripe** and utilized **Azure** and **Redis** for efficient data management and robust backend support.
