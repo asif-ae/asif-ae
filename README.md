@@ -61,7 +61,7 @@ I'm continuously expanding my skills to stay at the forefront of technology:
 ## 🚀 GitHub Stats
 
 ![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asif-ae&show_icons=true&theme=radical)
-![Asif's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishatFariza&langs_count=14&theme=blue-green&layout=compact&hide=html)
+![Asif's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-ae&langs_count=14&theme=blue-green&layout=compact&hide=html)
 
 ---
 
