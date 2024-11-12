@@ -1,4 +1,4 @@
-![Header](./Asif_Estiak_GitHub_Banner.pnga)
+![Header](./Asif_Estiak_GitHub_Banner.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asif-ae&color=blue)
 
