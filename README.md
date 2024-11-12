@@ -2,11 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asif-ae&color=blue)
 
-I'm a **Full-Stack Developer** from Dhaka, Bangladesh, with over 4 years of experience in building scalable and high-performance web and mobile applications. I specialize in **Next.js**, **Nest.js**, **React Native**, **GraphQL**, and a suite of other modern tools to create powerful, responsive, and user-friendly interfaces and backend.
-
 ---
 
 ## 📫 Let's Connect!
+
+I'm a **Full-Stack Developer** from Dhaka, Bangladesh, with over 4 years of experience in building scalable and high-performance web and mobile applications. I specialize in **Next.js**, **Nest.js**, **React Native**, **GraphQL**, and a suite of other modern tools to create powerful, responsive, and user-friendly interfaces and backend.
 
 * 📧 **Email**: [dev.asif.ae@gmail.com](mailto:dev.asif.ae@gmail.com)
 * 🧑‍💼 **LinkedIn**: [linkedin.com/in/asif-estiak](https://www.linkedin.com/in/asif-estiak/)
