@@ -6,6 +6,15 @@ I'm a **Full-Stack Developer** from Dhaka, Bangladesh, with over 4 years of expe
 
 ---
 
+## 📫 Let's Connect!
+
+* 📧 **Email**: [dev.asif.ae@gmail.com](mailto:dev.asif.ae@gmail.com)
+* 🧑‍💼 **LinkedIn**: [linkedin.com/in/asif-estiak](https://www.linkedin.com/in/asif-estiak/)
+* 🔗 **Portfolio**: [asife.dev](https://www.asife.dev/)
+* </> **GitHub**: [github.com/asif-ae](https://github.com/asif-ae)
+
+---
+
 ## 🏆 Key Projects
 
 - **[Unplex.me](https://unplex.me)**  
@@ -46,15 +55,6 @@ I'm continuously expanding my skills to stay at the forefront of technology:
 
 - **Jr. Software Engineer** @ Flokq Spaces Indonesia  
   [Sept 2021 - Dec 2022]
-
----
-
-## 📫 Let's Connect!
-
-- **Email**: [dev.asif.ae@gmail.com](mailto:dev.asif.ae@gmail.com)
-- **LinkedIn**: [linkedin.com/in/asif-estiak](https://www.linkedin.com/in/asif-estiak/)
-- **Portfolio**: [asife.dev](https://www.asife.dev/)
-- **GitHub**: [github.com/asif-ae](https://github.com/asif-ae)
 
 ---
 
