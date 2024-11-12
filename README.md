@@ -4,7 +4,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📙 About me!
 
 I'm a **Full-Stack Developer** from Dhaka, Bangladesh, with over 4 years of experience in building scalable and high-performance web and mobile applications. I specialize in **Next.js**, **Nest.js**, **React Native**, **GraphQL**, and a suite of other modern tools to create powerful, responsive, and user-friendly interfaces and backend.
 
