@@ -1,9 +1,5 @@
 ![Header](./Asif_Estiak_GitHub_Banner_1.png)
 
-![Profile Views](https://komarev.com/ghpvc/?username=asif-ae&color=blue)
-
----
-
 ## 📙 About me!
 
 I'm a **Full-Stack Developer** from Dhaka, Bangladesh, with over 4 years of experience in building scalable and high-performance web and mobile applications. I specialize in **Next.js**, **Nest.js**, **React Native**, **GraphQL**, and a suite of other modern tools to create powerful, responsive, and user-friendly interfaces and backend.
@@ -57,6 +53,9 @@ I'm continuously expanding my skills to stay at the forefront of technology:
   [Sept 2021 - Dec 2022]
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=asif-ae&color=blue)
+
 
 ## 🏆 GitHub Stats
 
