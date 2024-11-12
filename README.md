@@ -58,11 +58,17 @@ I'm continuously expanding my skills to stay at the forefront of technology:
 
 ---
 
-## 🚀 GitHub Stats
+## 🏆 GitHub Stats
 
-![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asif-ae&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true)
-![Asif's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-ae&langs_count=14&theme=blue-green&layout=compact&hide=html)
-![Asif's Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=asif-ae&theme=blue-green&hide_border=true)
+<table style="display: flex; align-items: center; justify-content: center; width: 100%;">
+  <tr>
+   <td><img alt="Asif Estiak :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=asif-ae&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+   <td><img alt="Asif Estiak :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-ae&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif-ae&theme=blue-green&hide_border=true"></td>
+  </tr>
+</table>
 
 ---
 
