@@ -71,4 +71,23 @@ I'm continuously expanding my skills to stay at the forefront of technology:
 
 ---
 
+---
+
+### StarDev Ranking
+
+<a href="https://stardev.io/developers/asif-ae"><img alt="Check out asif-ae's profile on stardev.io" src="https://stardev.io/developers/asif-ae/badge/languages/locality.svg" /></a>
+
+---
+
+
+### Top Repositories
+
+
+<a href="https://github.com/asif-ae/developer-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asif-ae&repo=developer-portfolio&theme=algolia" />
+</a>
+<a href="https://github.com/asif-ae/Express-Postgres-blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asif-ae&repo=Express-Postgres-blog&theme=algolia" />
+</a>
+
 Feel free to explore my repositories and reach out if you have questions, collaboration ideas, or exciting projects in mind. Let’s build something amazing together!
